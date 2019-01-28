@@ -1,13 +1,12 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
+  "name": "IMS Bank",
+  "short_name": "IMS Bank",
+  "description": "IMS Bank demo app",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#3f51b5",
   "background_color": "#3f51b5",
-  "icons": [
-    {
+  "icons": [{
       "src": "images/manifest/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
